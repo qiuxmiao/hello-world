@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+This is my first time in github. I knew it from the data mining course.
